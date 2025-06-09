@@ -1,0 +1,97 @@
+body{
+    background-color: darkgray;
+    color: black;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav1{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+.nav2{
+    padding: 1rem;
+}
+.div2>ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    gap: 1rem;
+}
+.div2>ul>li>a{
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    text-transform: capitalize;
+    font-size: 10px;
+    padding: 1rem;
+}
+.a1{
+    background-color: crimson;
+    padding: 7px;
+}
+.a2{
+    background-color: crimson;
+    padding: 7px;
+}
+.a3{
+    background-color: crimson;
+    padding: 7px;
+}
+.div1{
+    display: flex;
+    align-items: center;
+}
+.one{
+    font-size: 20px;
+    color: aliceblue;
+}
+.two{
+    padding-left: 3px;
+    margin: 3px;
+    font-size: 15px;
+    color: crimson;
+}
+.three{
+    padding-left: 3px;
+    margin: 3px;
+    font-size: 15px;
+    color: crimson;
+}
+.server{
+    font-size: 30px;
+    text-align: center;
+}
+.gambarserver{
+    width: 60px;
+    height: 60px;
+}
+.h2craetureone{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.nevcreatureone{
+    padding: 5px;
+}
+.gambar{
+    width:300px;
+    height: auto;
+}
+.back{
+    text-decoration: none;
+}
+.h1reso{
+    text-align: center;
+}
+.paketh1{
+    text-align: center;
+}.tf{
+    justify-content: space-between;
+    display: flex;
+}
+.bayar{
+    width: 60px;
+    height: 60px;
+}
